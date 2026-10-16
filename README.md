@@ -12,6 +12,12 @@ Admin-only UI menu with a 2x3 button grid. Each button executes a configurable c
 - Every click is logged to the server console and optionally to `oxide/logs/CommandMenu`.
 - Languages: English, German
 
+### Tested on RustRentner
+All ThornFox plugins are tested extensively on [rustrentner.de](https://rustrentner.de).
+
+### License
+MIT – see [LICENSE](LICENSE).
+
 ## Deutsch
 
 Admin-Menü mit einem 2x3-Button-Raster. Jeder Button führt einen konfigurierbaren Chat-Befehl für den klickenden Admin aus.
@@ -21,6 +27,12 @@ Admin-Menü mit einem 2x3-Button-Raster. Jeder Button führt einen konfigurierba
 - Buttons senden nur ihren Index; ausführbar sind ausschließlich Befehle aus der Config.
 - Jeder Klick wird in der Serverkonsole und optional in `oxide/logs/CommandMenu` protokolliert.
 - Sprachen: Englisch, Deutsch
+
+### Getestet auf RustRentner
+Alle Plugins von ThornFox werden ausgiebig auf [rustrentner.de](https://rustrentner.de) getestet.
+
+### Lizenz
+MIT – siehe [LICENSE](LICENSE).
 
 ## Changelog
 
